@@ -6,4 +6,4 @@ Merhaba Web kodlama dersi için yaptığım final ödevidir. Visual Studıo a lo
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=seymaazehra&show_icons=true&theme=gradient)
